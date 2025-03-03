@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+.Trash/
+
+# Log and history files
+*.log
+.bash_history
+.zsh_history
+
+# Editor and IDE directories
+.vscode/
+.idea/
